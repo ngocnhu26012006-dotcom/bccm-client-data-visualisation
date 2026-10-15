@@ -1,6 +1,6 @@
-# Client Data Visualisation Project — BCCM
+# Client Data Visualisation Project - BCCM
 
-**Status:** In Progress | August–November 2026
+**Status:** In Progress | August - November 2026
 
 ## Project Overview
 
